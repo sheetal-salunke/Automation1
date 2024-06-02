@@ -16,14 +16,14 @@ public class MathematicalCalculation {
 
         if(input1>input2)
         {
-            System.out.println("Max Nubmer: "+input1);
+            System.out.println("Max Number: "+input1);
         }
         else {
             System.out.println("Max Number: "+input2);
         }
         if(input1<input2)
         {
-            System.out.println("Min Nubmer: "+input1);
+            System.out.println("Min Number: "+input1);
         }
         else {
             System.out.println("Min Number: "+input2);
