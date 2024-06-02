@@ -3,6 +3,7 @@ public class MathematicalCalculation {
     {
         int input1=10;
         int input2=6;
+
  int sum=input1 + input2;
  int diff=input1 - input2;
  int product=input1 * input2;
