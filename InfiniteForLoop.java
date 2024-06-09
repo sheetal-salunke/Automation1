@@ -8,9 +8,9 @@ public class InfiniteForLoop {
         }
 
         //Infinite for loop
-        for(int i=0; ;i++)
-        {
-            System.out.print(i+ " ");
-        }
+//        for(int i=0; ;i++)
+//        {
+//            System.out.print(i+ " ");
+//        }
     }
 }
